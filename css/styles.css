@@ -1,3 +1,28 @@
 body {
-	background-color: red;
+	background-color: #FFF;
+	color: #000;
+	margin: 0;
+	padding: 0;
+}
+
+#nav {
+	position: relative;
+	width: 100%;
+	display: inline-block;
+}
+
+#container {
+	
+}
+
+#user-photo {
+	border-radius: 50%;
+	height: 32px;
+	width: 32px;
+	display: block;
+}
+
+#user-grid {
+	height: 20px;
+	width: 20px;
 }
